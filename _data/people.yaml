@@ -54,29 +54,9 @@
     - Asymmetric Cooperation
     - Multi-Objective Decision-making
     - Quality-Diversity
-   
-- name: Joshua Cook
-  title: phd
-  picture: josh
-  website: https://www.linkedin.com/in/joshua-cook-b9a063196
-  period:
-    start: 2019-09-01
-  topics:
-    - Ad-Hoc Learning
-    - Team Formation
-      
-- name: Anna Nickelson
-  title: phd
-  picture: anna
-  website: https://rabbleofrobots.wordpress.com/
-  period:
-    start: 2020-01-01
-  topics:
-    - Multi-Objective Optimization
-    - AI Ethics
       
 - name: A. Alp Aydeniz
-  title: phd
+  title: postdoc
   picture: alp
   website: https://github.com/ayhanalp
   period:
@@ -116,11 +96,31 @@
     - Unsupervised Reinforcement Learning
       
 - name: Sidd Viswanathan
-  title: intern
+  title: phd
   picture: sidd
-  website: https://www.linkedin.com/in/siddarth-viswanathan
+  website: https://siddiyer.github.io/
   period:
-    start: 2023-10-15
+    start: 2024-09-15
   topics:
     - Inter-Agent Diversity
+    - Deep Reinforcement Learning
+
+- name: Jamie Santos
+  title: phd
+  picture: jamie
+  website: https://www.linkedin.com/in/jamiecsantos/
+  period:
+    start: 2025-09-15
+  topics:
+    - Multi-Objective Reinforcement Learning
+    - Long-term Autonomy
+
+- name: Sophie Turner
+  title: master
+  picture: sophie
+  website: https://www.linkedin.com/in/sophie-turner-930583210/
+  period:
+    start: 2025-09-15
+  topics:
+    - Curriculum Learning
     - Deep Reinforcement Learning

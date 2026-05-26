@@ -12,6 +12,24 @@
 
 # Doctoral
 
+- name: Joshua Cook
+  title: phd
+  picture: josh
+  website: https://www.linkedin.com/in/joshua-cook-b9a063196
+  profile_page: false
+  period:
+    end: 2025
+  next: Zoox
+
+- name: Anna Nickelson
+  title: phd
+  picture: anna
+  website: https://rabbleofrobots.wordpress.com/
+  profile_page: false
+  period:
+    end: 2024
+  next: United States Senate
+
 - name: Nick Zerbel
   title: phd
   picture: nick
